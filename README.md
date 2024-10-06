@@ -1,2 +1,3 @@
 # gitcc
-github for cc
+github working and its uses
+
